@@ -1,0 +1,22 @@
+{
+  "name": "getnv",
+  "version": "0.0.1",
+  "description": "自动创建或指定版本号获取",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zys8119/getnv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zys8119/getnv/issues"
+  },
+  "homepage": "https://github.com/zys8119/getnv#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.18"
+  }
+}
