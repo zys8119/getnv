@@ -1,6 +1,6 @@
 {
   "name": "getnv",
-  "version": "0.0.1",
+  "version": "0.0.2-0",
   "description": "自动创建或指定版本号获取",
   "main": "index.js",
   "scripts": {
