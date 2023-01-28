@@ -1,9 +1,9 @@
 {
     "name": "getnv",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "自动创建或指定版本号获取",
     "main": "dist/index.js",
-    "types": "src/index.ts",
+    "typings": "src/index.ts",
     "scripts": {
         "dev": "ts-node src/test.ts",
         "build": "ts-node build.ts"
