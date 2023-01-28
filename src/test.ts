@@ -1,3 +1,5 @@
-import a from "./index"
+import GetNV from "./index"
 
-console.log(a(''));
+console.log(GetNV({
+    save:true
+}).patch(),5555);
